@@ -1,8 +1,4 @@
-import.java.util.*
-import java.util.Scanner;
 
-public class positive
-{
 
 	public static void main(String[] args)
 	{
@@ -18,8 +14,4 @@ public class positive
 			System.out.println("invalid");
 		
 		sc.close();
-		
-
 	}
-
-}
